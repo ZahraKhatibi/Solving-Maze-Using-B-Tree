@@ -1,5 +1,6 @@
 # B-Tree Maze Solver in C++ using Dijkstra's algorithm
 ![](pic.png)
+
 This C++ project implements a B-Tree data structure to solve maze problems. The code includes classes for B-Tree nodes, a matrix node, a heap node, a heap, and the B-Tree itself. The primary objective is to find the shortest path through a maze from a starting point to an endpoint using Dijkstra's algorithm.
 
 ## Project Structure
